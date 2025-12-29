@@ -1,0 +1,2 @@
+rootProject.name = 'PhoenixAISpace'
+include ':app'
